@@ -1,0 +1,8 @@
+2022-09-08 21:30
+
+目的： 分析 line 聊天室的訊息
+方法： frontend: React.js, backend: python
+功能： 
+Overview
+Specific word
+參考： https://chonyy.github.io/line-message-analyzer/
