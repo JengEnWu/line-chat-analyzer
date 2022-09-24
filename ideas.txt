@@ -1,8 +1,14 @@
 2022-09-08 21:30
 
 目的： 分析 line 聊天室的訊息
-方法： frontend: React.js, backend: python
+方法： frontend&backend: python, plotly, dash 
 功能： 
 Overview
 Specific word
 參考： https://chonyy.github.io/line-message-analyzer/
+
+TO-DO:
+* () A cool project title
+* () A cool favicon
+* () frontend layout template
+* () 確定功能～～
